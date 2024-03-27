@@ -1,2 +1,2 @@
-# Learning-C-with-CipherSchools
+# Learning
 first commit
